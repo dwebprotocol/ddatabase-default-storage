@@ -1,7 +1,7 @@
 {
-  "name": "hypercore-default-storage",
+  "name": "ddatabase-default-storage",
   "version": "1.0.0",
-  "description": "Default storage provider used by Hypercore",
+  "description": "Default storage provider used by DDatabase",
   "main": "index.js",
   "dependencies": {
     "random-access-file": "^2.1.3"
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mafintosh/hypercore-default-storage.git"
+    "url": "https://github.com/distributedweb/ddatabase-default-storage.git"
   },
   "author": "Mathias Buus (@mafintosh)",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/mafintosh/hypercore-default-storage/issues"
+    "url": "https://github.com/distributedweb/ddatabase-default-storage/issues"
   },
-  "homepage": "https://github.com/mafintosh/hypercore-default-storage"
+  "homepage": "https://github.com/distributedweb/ddatabase-default-storage"
 }
