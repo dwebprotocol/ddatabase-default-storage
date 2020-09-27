@@ -1,17 +1,17 @@
-# hypercore-default-storage
+# ddatabase-default-storage
 
-Default storage provider used by Hypercore
+Default storage provider used by DDatabase
 
 ```
-npm install hypercore-default-storage
+npm install ddatabase-default-storage
 ```
 
 ## Usage
 
 ``` js
-const defaultStorage = require('hypercore-default-storage')
+const defaultStorage = require('ddatabase-default-storage')
 
-const feed = hypercore(name => defaultStorage(name, { directory: 'feed' }))
+const feed = ddatabase(name => defaultStorage(name, { directory: 'feed' }))
 ```
 
 ## API
