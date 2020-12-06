@@ -1,6 +1,6 @@
 # ddatabase-default-storage
 
-Default storage provider used by DDatabase
+Default storage provider used by dDatabase
 
 ```
 npm install ddatabase-default-storage
