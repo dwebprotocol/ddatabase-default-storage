@@ -1,15 +1,15 @@
-# ddatabase-default-storage
+# @ddatabase/default-storage
 
 Default storage provider used by dDatabase
 
 ```
-npm install ddatabase-default-storage
+npm install @ddatabase/default-storage
 ```
 
 ## Usage
 
 ``` js
-const defaultStorage = require('ddatabase-default-storage')
+const defaultStorage = require('@ddatabase/default-storage')
 
 const feed = ddatabase(name => defaultStorage(name, { directory: 'feed' }))
 ```

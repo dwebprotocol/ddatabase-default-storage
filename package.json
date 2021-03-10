@@ -1,6 +1,6 @@
 {
   "name": "@ddatabase/default-storage",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Default storage provider for dDatabase.",
   "main": "index.js",
   "dependencies": {
@@ -12,12 +12,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/dwebprotocol/ddatabase-default-storage.git"
+    "url": "https://github.com/dwebprotocol/@ddatabase/default-storage.git"
   },
   "author": "PeepsLabs <peepslabs@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/dwebprotocol/ddatabase-default-storage/issues"
+    "url": "https://github.com/dwebprotocol/@ddatabase/default-storage/issues"
   },
   "homepage": "https://dwebx.org"
 }
